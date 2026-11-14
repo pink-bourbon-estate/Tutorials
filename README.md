@@ -2,7 +2,7 @@
 
 Step-by-step lessons for building every tool on [Pink Bourbon Estate](https://pink-bourbon-estate.github.io) yourself, written for someone who has never written code.
 
-**Status: planned. Nothing here is built yet.** This repository holds the plan until the first lessons exist. Read the reasoning in the essay [Beyond open: owning how it works](https://pink-bourbon-estate.github.io/articles/beyond-open-owning-how-it-works/).
+**Status: just started.** The plan is below. The first lesson, [00 · Start here](00-start-here/), is written but not yet tested by a newcomer. Read the reasoning in the essay [Beyond open: owning how it works](https://pink-bourbon-estate.github.io/articles/beyond-open-owning-how-it-works/).
 
 ## Why
 Open code is only half of ownership. If you cannot follow it, you still depend on whoever (or whatever) wrote it. The point of these tutorials is that the knowledge of how to create, use and change each tool does not disappear if any one AI service does.
